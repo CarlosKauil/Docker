@@ -7,6 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Area extends Model
 {
+    
     use HasFactory;
 
     // Definir la tabla si no sigue la convención plural de Laravel
