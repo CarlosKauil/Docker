@@ -7,6 +7,7 @@ use App\Models\Area;
 
 class AreaController extends Controller
 {
+    /*A*/
     /**
      * Muestra la lista de todas las áreas.
      */
